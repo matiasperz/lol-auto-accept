@@ -1,0 +1,2 @@
+PyAutoGUI==0.9.49
+python-imageseach-drov0==1.0.6
