@@ -1,0 +1,3 @@
+PyAutoGUI
+python-imagesearch
+psutil
